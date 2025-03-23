@@ -11,11 +11,11 @@ I'm a Master’s student in Computer Science with a passion for data analysis, d
 I've worked on everything from data analytics and business intelligence to deep learning and cloud-based pipelines. Check out my portfolio for some of my favorite projects!
 
 ### 🛠️ Tech I Use:
-Languages: SQL, Python, PySpark
-Databases: Google BigQuery, PostgreSQL, MySQL
-Visualization & BI: Tableau, Power BI, Looker Studio
-Cloud & Big Data: AWS, GCP, Snowflake, Apache Spark
-ML & AI: Scikit-learn, TensorFlow, PyTorch, NLP, Computer Vision
+- Languages: SQL, Python, PySpark
+- Databases: Google BigQuery, PostgreSQL, MySQL
+- Visualization & BI: Tableau, Power BI, Looker Studio
+- Cloud & Big Data: AWS, GCP, Snowflake, Apache Spark
+- ML & AI: Scikit-learn, TensorFlow, PyTorch, NLP, Computer Vision
 
 ### 👋 Let’s Connect!
 - reach me - sonalsv28@gmail.com
