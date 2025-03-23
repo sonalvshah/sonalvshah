@@ -16,7 +16,7 @@ Visualization & BI: Tableau, Power BI, Looker Studio
 Cloud & Big Data: AWS, GCP, Snowflake, Apache Spark
 ML & AI: Scikit-learn, TensorFlow, PyTorch, NLP, Computer Vision
 
-👋 Let’s Connect!
+### 👋 Let’s Connect!
 - reach me - sonalsv28@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/sonalshah2807/)
 - [GitHub](https://github.com/sonalvshah)
