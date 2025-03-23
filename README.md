@@ -1,4 +1,4 @@
-### Hi, I’m Sonal Shah.
+### Hi, I’m Sonal,
 I'm a Master’s student in Computer Science with a passion for data analysis, data science, machine learning, and data engineering. I love working with data—whether it’s querying, analyzing, building models, or optimizing pipelines—to turn raw information into meaningful insights.
 
   ### 🔍 What I Do: 
