@@ -18,9 +18,9 @@ ML & AI: Scikit-learn, TensorFlow, PyTorch, NLP, Computer Vision
 
 👋 Let’s Connect!
 - reach me - sonalsv28@gmail.com
-- [LinkedIn] (https://www.linkedin.com/in/sonalshah2807/)
-- [GitHub] (https://github.com/sonalvshah)
-- [Medium] (https://medium.com/@shahsv28)
+- [LinkedIn](https://www.linkedin.com/in/sonalshah2807/)
+- [GitHub](https://github.com/sonalvshah)
+- [Medium](https://medium.com/@shahsv28)
 
 
 <!---
