@@ -8,7 +8,7 @@ I'm a Master’s student in Computer Science with a passion for data analysis, d
 - Creating interactive reports in Tableau, Power BI, and Looker Studio.
 
 ### 📚 Projects
-I've worked on everything from data analytics and business intelligence to deep learning and cloud-based pipelines. Check out my portfolio for some of my favorite projects!
+I've worked on everything from data analytics and business intelligence to deep learning and cloud-based pipelines. Check out my repos for some of my favorite projects!
 
 ### 🛠️ Tech I Use:
 - Languages: SQL, Python, PySpark
