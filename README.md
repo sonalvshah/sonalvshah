@@ -20,7 +20,6 @@ I've worked on everything from data analytics and business intelligence to deep 
 ### 👋 Let’s Connect!
 - reach me - sonalsv28@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/sonalshah2807/)
-- [GitHub](https://github.com/sonalvshah)
 - [Medium](https://medium.com/@shahsv28)
 
 
