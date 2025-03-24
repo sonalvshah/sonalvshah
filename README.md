@@ -15,7 +15,7 @@ I've worked on everything from data analytics and business intelligence to deep 
 - Databases: Google BigQuery, PostgreSQL, MySQL
 - Visualization & BI: Tableau, Power BI, Looker Studio
 - Cloud & Big Data: AWS, GCP, Snowflake, Apache Spark
-- ML & AI: Scikit-learn, TensorFlow, PyTorch, NLP, Computer Vision
+- ML & AI: Scikit-learn, TensorFlow, PyTorch, Seaborn, Computer Vision
 
 ### 👋 Let’s Connect!
 - reach me - sonalsv28@gmail.com
