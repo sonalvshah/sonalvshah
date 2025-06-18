@@ -9,7 +9,6 @@ I'm a Master’s student in Computer Science with a passion for data analysis, d
 
 ### Projects
 I've worked on everything from data analytics and business intelligence to deep learning and cloud-based pipelines. Check out my repos for some of my favorite projects!
-And I solve leetcode in my free time - [Leetcode](https://leetcode.com/u/sonalvshah/)
 
 ###  Tech I Use:
 - Languages: SQL, Python, PySpark
