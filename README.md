@@ -21,8 +21,9 @@ I've worked on everything from data analytics and business intelligence to deep 
 - reach me - sonalsv28@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/sonalshah2807/)
 - [Medium](https://medium.com/@shahsv28)
+  
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/u/sonalvshah/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Sonal)](https://leetcode.com/u/sonalvshah/)
 
 
 <!---
