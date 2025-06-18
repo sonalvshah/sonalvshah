@@ -22,6 +22,8 @@ I've worked on everything from data analytics and business intelligence to deep 
 - [LinkedIn](https://www.linkedin.com/in/sonalshah2807/)
 - [Medium](https://medium.com/@shahsv28)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/u/sonalvshah/)
+
 
 <!---
 sonalvshah/sonalvshah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
