@@ -18,7 +18,7 @@ I've worked on everything from data analytics and business intelligence to deep 
 - ML & AI: Scikit-learn, TensorFlow, PyTorch, Seaborn, Computer Vision
 
 ### Let’s Connect!
-- reach me - sonalsv28@gmail.com
+- reach me - shah5sv@mail.uc.edu
 - [LinkedIn](https://www.linkedin.com/in/sonalshah2807/)
 - [Medium](https://medium.com/@shahsv28)
   
